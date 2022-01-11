@@ -1,0 +1,5 @@
+Number of people: 40000
+Vaccinated People: 18000
+Infected People: 550
+Vulnerable but healthy people: 21450
+

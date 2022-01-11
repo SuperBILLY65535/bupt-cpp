@@ -1,0 +1,3 @@
+D:/Codes/Homework/cpp-final-pandemic/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Codes/Homework/cpp-final-pandemic/out/build/x64-Debug/CMakeFiles/cpp_final_pandemic.dir
+D:/Codes/Homework/cpp-final-pandemic/out/build/x64-Debug/CMakeFiles/edit_cache.dir
