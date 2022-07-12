@@ -1,1 +1,7 @@
-A BYR Homework: Autumn 2021 C/C++ Programming
+# Autumn 2021 C/C++ Programming
+
+大一上学期的AI院c++编程作业，既然结课了就上传上来。
+
+当然，所有代码仅供参考，**若被发现抄袭本人不负责**。GitHub也明确说明没有License的代码，未经作者同意不得使用任何部分。
+
+希望各位自重。
